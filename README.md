@@ -1,6 +1,5 @@
 # Desafio: Plataforma de ensino
-O objetivo desse projeto é criar uma plataforma de ensino. Para isso, o programa para ler os dados das aulas de um curso e, em seguida, mostrar a duração total do curso, que é a soma das durações de cada aula. 
-As regras para este desafio são:
+O objetivo desse projeto é criar uma plataforma de ensino. Para isso, foi criado um programa que  lê os dados das aulas de um curso e, em seguida, mostra a duração total do curso, que é a soma das durações de cada aula. As regras para este desafio são:
 
 1. **Aulas:**
   
