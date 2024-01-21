@@ -17,7 +17,7 @@ As regras para este desafio são:
 3. **Diagrama de classe UML:**
    - Seguir exatamente o diagrama de classe abaixo:
    
-   ![Diagrama de classe](https://github.com/LucasFrancoBN/colaboradores/blob/master/img/diagrama_classe.png)
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/plataforma-ensino/blob/master/img/diagrama_classe.png)
 
 ## Exemplo
 ```plaintext
